@@ -4,4 +4,4 @@
 
 # I am Srinivas, I am also learning Git.
 
-# I am Durga, I am learning Git.
+# I am Durga, I am learning Git along with Github.
